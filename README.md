@@ -1,4 +1,5 @@
 # discord-radio-bot
 
-Discord music bot koji radi tako što upišete link radio stanice, i on vam pušta tu muziku u voice-u 24/7.
+Um bot de música discórdia que funciona digitando um link de estação de rádio e reproduz essa música para você 24 horas por dia, 7 dias por semana.
 
+Necessario instalar as dependencias de discord py e de FFmpeg para bots
